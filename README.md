@@ -14,11 +14,12 @@ Bien que le projet vise un code propre et optimisé, des axes d'amélioration su
 Rvalue References : Optimisation des copies via ces derniers.
 Gestion des dépendances circulaires : Résolution soignée des dépendances pour éviter les problèmes de compilation.
 
-2. Fonctionnalités implémentées
-Une **simulation physique** de particules avec des colliders (plans et sphères).
-Une **barre de menu** permettant de **réinitialiser** la simulation.
-Un **exemple** implémenté par défaut.
-Ajout d'une **vitesse maximum** pour éviter les vitesses abérantes (surtout quand une particule est généré dans un objet).
+2. Fonctionnalités implémentées: 
+- Une **simulation physique** de particules avec des colliders (plans et sphères).
+- Ajout d'une particule lors de la réalisation d'un double clic gauche de la souris.
+- Une **barre de menu** permettant de **réinitialiser** la simulation.
+- Un **exemple** implémenté par défaut.
+- Ajout d'une **vitesse maximum** pour éviter les vitesses abérantes (surtout quand une particule est généré dans un objet).
 
 ## Améliorations possibles
 
