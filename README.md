@@ -10,9 +10,9 @@ Bien que le projet vise un code propre et optimisé, des axes d'amélioration su
 
 ## Caractéristiques Principales
 1. Bonne utilisation des concepts modernes de C++
-`std::unique_ptr` : Gestion intelligente des ressources, notamment pour les vecteurs pouvant contenir un grand nombre d'objets.
-Rvalue References : Optimisation des copies via ces derniers.
-Gestion des dépendances circulaires : Résolution soignée des dépendances pour éviter les problèmes de compilation.
+- `std::unique_ptr` : Gestion intelligente des ressources, notamment pour les vecteurs pouvant contenir un grand nombre d'objets.
+- Rvalue References : Optimisation des copies via ces derniers.
+- Gestion des dépendances circulaires : Résolution soignée des dépendances pour éviter les problèmes de compilation.
 
 2. Fonctionnalités implémentées: 
 - Une **simulation physique** de particules avec des colliders (plans et sphères).
