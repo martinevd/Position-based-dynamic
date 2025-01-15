@@ -9,12 +9,12 @@ Ce projet s'appuie sur les bonnes pratiques de programmation en C++, un langage 
 Bien que le projet vise un code propre et optimisé, des axes d'amélioration subsistent pour atteindre une efficacité et une maintenabilité maximales.
 
 ## Caractéristiques Principales
-1. Bonne utilisation des concepts modernes de C++
+### Bonne utilisation des concepts modernes de C++
 - `std::unique_ptr` : Gestion intelligente des ressources, notamment pour les vecteurs pouvant contenir un grand nombre d'objets.
 - Rvalue References : Optimisation des copies via ces derniers.
 - Gestion des dépendances circulaires : Résolution soignée des dépendances pour éviter les problèmes de compilation.
 
-2. Fonctionnalités implémentées: 
+### Fonctionnalités implémentées: 
 - Une **simulation physique** de particules avec des colliders (plans et sphères).
 - Ajout d'une particule lors de la réalisation d'un double clic gauche de la souris.
 - Une **barre de menu** permettant de **réinitialiser** la simulation.
